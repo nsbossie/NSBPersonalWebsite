@@ -1,0 +1,51 @@
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 40px;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #333;
+}
+
+/* Image styling */
+img {
+    border-radius: 10px;  /* rounded corners */
+    max-width: 100%;      /* responsive */
+    height: auto;         /* maintains aspect ratio */
+}
+
+/* Headings */
+h1 {
+    color: #e39b1f;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #34495e;
+    margin-top: 30px;
+}
+
+/* Sections */
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+/* Images */
+img {
+    border-radius: 10px;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 15px;
+}

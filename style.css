@@ -9,6 +9,27 @@ body {
     color: #333;
 }
 
+/* Navigation tabs styling */
+nav {
+    background-color: #caf6dd;
+    padding: 15px 0;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(72, 42, 244);
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #3498db;
+}
+
 /* Image styling */
 img {
     border-radius: 10px;  /* rounded corners */
